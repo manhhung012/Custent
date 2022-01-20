@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Custent">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/Custent.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
